@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,12,20,24&text=JUAN%20TIMM&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20que%20transforma%20ideias%20em%20projetos&descAlignY=59&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FF8C00,50:F97316,100:DC2626&text=JUAN%20TIMM&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20que%20transforma%20ideias%20em%20projetos&descAlignY=59&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&width=720&lines=Flutter+%7C+Java+%7C+JavaScript;Apps%2C+jogos+e+experi%C3%AAncias+interativas;Aprendendo+na+pr%C3%A1tica%2C+um+bug+por+vez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=FF8C00&center=true&vCenter=true&width=720&lines=Flutter+%7C+Java+%7C+JavaScript;Apps%2C+jogos+e+experi%C3%AAncias+interativas;Aprendendo+na+pr%C3%A1tica%2C+um+bug+por+vez)](https://git.io/typing-svg)
 
-![Visitas](https://komarev.com/ghpvc/?username=Jtcharizard&label=VISITAS&color=7b2cbf&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/Jtcharizard?style=for-the-badge&color=5a189a&labelColor=0d1117&label=SEGUIDORES)
-![Estrelas](https://img.shields.io/github/stars/Jtcharizard?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=ESTRELAS)
+![Visitas](https://komarev.com/ghpvc/?username=Jtcharizard&label=VISITAS&color=f97316&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/Jtcharizard?style=for-the-badge&color=ea580c&labelColor=0d1117&label=SEGUIDORES)
+![Estrelas](https://img.shields.io/github/stars/Jtcharizard?style=for-the-badge&color=fb923c&labelColor=0d1117&label=ESTRELAS)
 
 </div>
 
@@ -114,8 +114,8 @@ Roleta interativa para sorteios, com duas rodas, histórico, efeitos sonoros e i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jtcharizard&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtcharizard&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jtcharizard&show_icons=true&theme=great-gatsby&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtcharizard&layout=compact&langs_count=8&theme=great-gatsby&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
 
 </div>
 
@@ -136,6 +136,6 @@ Explore meus repositórios e acompanhe os próximos projetos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jtcharizard-181717?style=for-the-badge&logo=github)](https://github.com/Jtcharizard)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=6,12,20,24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF8C00,50:F97316,100:DC2626"/>
 
 </div>
