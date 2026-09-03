@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FF8C00,50:F97316,100:DC2626&text=JUAN%20TIMM&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20que%20transforma%20ideias%20em%20projetos&descAlignY=59&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FF8C00,50:F97316,100:DC2626&text=JUAN%20TIMM&fontSize=52&fontAlignY=38&fontColor=FFFFFF&desc=Desenvolvedor%20que%20transforma%20ideias%20em%20projetos&descAlignY=59&descColor=FFF7ED&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=FF8C00&center=true&vCenter=true&width=720&lines=Flutter+%7C+Java+%7C+JavaScript;Apps%2C+jogos+e+experi%C3%AAncias+interativas;Aprendendo+na+pr%C3%A1tica%2C+um+bug+por+vez)](https://git.io/typing-svg)
 
@@ -114,8 +114,10 @@ Roleta interativa para sorteios, com duas rodas, histórico, efeitos sonoros e i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jtcharizard&show_icons=true&theme=great-gatsby&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtcharizard&layout=compact&langs_count=8&theme=great-gatsby&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jtcharizard&theme=gruvbox" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jtcharizard&theme=gruvbox" alt="Linguagens por repositório"/>
+
+<img width="690" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jtcharizard&theme=gruvbox" alt="Resumo de contribuições"/>
 
 </div>
 
